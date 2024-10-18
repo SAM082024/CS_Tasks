@@ -16,7 +16,7 @@ public class Fundament : IFundament
 
     public string GetAInterestingFact(string fact)
     {
-        throw new NotImplementedException();
+        return "Crocodylidae is the latin name of crocodile";
     }
 
     public void SumTwoNumbers()
